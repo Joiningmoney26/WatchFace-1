@@ -17,6 +17,18 @@
         "resources": {
             "media": [
                 {
+                    "file": "images/space",
+                    "name": "SPACE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/Airstrike Font",
+                    "name": "AIRSTRIKE_40",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
                     "file": "images/asl_resized_mono.png",
                     "name": "SPARK_ICON",
                     "type": "png"
